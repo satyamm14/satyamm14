@@ -1,9 +1,3 @@
-<!-- banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&width=435&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
----
 
 <h1 align="center">🚀 Satyam Maurya | CS Undergrad | Developer 🚀</h1>
 <p align="center">
