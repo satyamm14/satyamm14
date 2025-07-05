@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&width=435&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-<!--
-**satyamm14/satyamm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center">🚀 Satyam Maurya | CS Undergrad | Developer 🚀</h1>
+<p align="center">
+  Passionate about full-stack, system design, automation, and agentic AI systems.<br/>
+  Building ideas into products, one commit at a time.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👁️‍🗨️ Profile Views
+
+<p align="">
+  <img src="https://komarev.com/ghpvc/?username=satyamm14&style=flat-square&color=58a6ff" alt="Profile Views" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamm14&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamm14&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,ts,react,nextjs,nodejs,fastapi,express,firebase,mongodb,git,github,vscode,linux,bash,postman" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamm14&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+
+## 🧭 GitHub Profile Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamm14&theme=radical&column=6&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+
+## 🧠 Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ethereum,solidity,webflow,blockchain" />
+</p>
+
+```txt
+- Web3 | Ethereum Smart Contracts | zk Proofs
+- Blockchain Development (Solidity)
+- Advanced System Design Patterns
+- AI Agents & Local LLM orchestration
+- MySQL
