@@ -1,10 +1,3 @@
-<!-- banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&width=435&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
----
-
 <h1 align="center">🚀 Satyam Maurya | CS Undergrad | Developer 🚀</h1>
 <p align="center">
   Passionate about full-stack, system design, automation, and agentic AI systems.<br/>
@@ -32,9 +25,14 @@
 
 ## 🌐 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,ts,react,nextjs,nodejs,fastapi,express,firebase,mongodb,git,github,vscode,linux,bash,postman" />
-</p>
+<div align="center" style="
+    display: flex;
+    flex-direction: col;
+    gap: 100px;  
+">
+  <img src="https://skillicons.dev/icons?i=ableton,blender,python,html,css,js,java,ts,react,mongodb,ps,php,nextjs,nodejs,fastapi,express,firebase,git,github,vscode,linux,bash,postman" />
+  </a> 
+</div>
 
 ---
 
@@ -58,7 +56,7 @@
 
 ## 🧠 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ethereum,solidity,webflow,blockchain" />
+  <img src="https://skillicons.dev/icons?i=ethereum,solidity,webflow,blockchain,langchain,react" />
 </p>
 
 ```txt
