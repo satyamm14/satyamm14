@@ -56,7 +56,7 @@
 
 ## 🧠 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ethereum,solidity,webflow,blockchain,langchain,react" />
+  <img src="https://skillicons.dev/icons?i=ethereum,solidity,webflow" />
 </p>
 
 ```txt
