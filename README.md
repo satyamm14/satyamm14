@@ -6,7 +6,7 @@
 
 ---
 
-## 👁️‍🗨️ Profile Views
+## Profile Views
 
 <p align="">
   <img src="https://komarev.com/ghpvc/?username=satyamm14&style=flat-square&color=58a6ff" alt="Profile Views" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamm14&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Languages & Tools
+## Languages & Tools
 
 <div align="center" style="
     display: flex;
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamm14&layout=compact&theme=radical&hide_border=true" />
@@ -45,7 +45,7 @@
 ---
 
 
-## 🧭 GitHub Profile Trophy Case
+## GitHub Profile Trophy Case
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satyamm14&theme=radical&column=6&margin-w=10&margin-h=15" />
@@ -54,7 +54,7 @@
 ---
 
 
-## 🧠 Currently Learning
+## Currently Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ethereum,solidity,webflow" />
 </p>
