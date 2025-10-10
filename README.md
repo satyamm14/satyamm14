@@ -60,7 +60,7 @@
 </p>
 
 ```txt
-- Web3 | Ethereum Smart Contracts | zk Proofs
+- Web3 | Ethereum Smart Contracts
 - Blockchain Development (Solidity)
 - Advanced System Design Patterns
 - AI Agents & Local LLM orchestration
