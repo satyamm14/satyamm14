@@ -32,7 +32,7 @@
 ">
   <img src="https://skillicons.dev/icons?i=ableton,blender,python,html,css,js,java,ts,react,mongodb,ps,php,nextjs,nodejs,fastapi,express,firebase,git,github,vscode,linux,bash,postman" />
   </a> 
-</div>
+</div> 
 
 ---
 
